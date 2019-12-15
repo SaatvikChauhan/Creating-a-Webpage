@@ -1,0 +1,4 @@
+User-agent: GoogleBot
+Disallow: /https://giphy.com/stickers/g-superg-super-USnHNwXna1wxpG97fD?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fsaatvikchauhan.github.io%2FCreating-a-Webpage%2F
+User-agent: msnbot
+Disallow: /https://giphy.com/stickers/g-superg-super-USnHNwXna1wxpG97fD?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fsaatvikchauhan.github.io%2FCreating-a-Webpage%2F
